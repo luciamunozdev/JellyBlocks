@@ -4,16 +4,6 @@ we have developed a Java program to playing Jelly Blocks, a sliding blocks puzzl
 whose goal is to put toghether all boxes with the same color. 
 Replication of the game https://funhtml5games.com/?play=jelly 
 
-## Installation (cloning)
-
-### Clone with SSH
-
-git@costa.ls.fi.upm.es:180157/jelly-blocks.git
-
-### Clone with HTTP
-
-git clone https://costa.ls.fi.upm.es/gitlab/180157/jelly-blocks.git
-
 ## Directory tree layout
 
 ```bash
